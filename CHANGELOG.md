@@ -2,7 +2,7 @@
 
 - 08.08.2022 Добавили комментарии в Блоге
 - 01.09.2022 Провели [Квартирник #1](https://teacher.army/blog/itogi-kvartirnika-teacher-army-po-indeksu-1)
-- 26.07.2022 Добавили [возможность](https://github.com/teacher-army/external-blog) писать в Блог всем желающим
+- 26.07.2022 Добавили возможность [писать статьи](https://github.com/teacher-army/external-blog) в Блог всем желающим
 - 22.07.2022 Провели [Квартирник #0](https://teacher.army/blog/kvartirnik-teacher-army)
 
 - 17.05.2022 Добавили [Код-ревью](https://teacher.army/code-review)
